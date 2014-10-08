@@ -1,0 +1,23 @@
+html{
+    background:teal;
+	min-height:100%;
+    background-size:cover;
+}
+body{
+    min-height:100%;
+	margin-top: 0px;
+	border-radius: 10px;
+	text-align: center;
+	box-shadow: 10px 10px 50px black;
+}
+#div1 {
+	   position: relative;
+	   width: 300px;
+	   padding: 0;
+	   padding-bottom: 115%;
+	   margin: 0 auto;
+	   color: white;
+	   background: teal;
+	   text-align: center;
+	   font-size: 2rem;
+	  }
